@@ -1,0 +1,15 @@
+h1{
+    color: black;
+}
+h2{
+    color: dimgrey;
+}
+h3{
+    color: grey;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: red;
+}
